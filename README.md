@@ -16,7 +16,7 @@ This starting kit requires Python and the following dependencies:
 * `ramp-workflow`
 
 You can get started on this RAMP challenge with the
-[dedicated notebook](FAN_starting_kit.ipynb) by running the following command
+[dedicated notebook](Childstein_starting_kit.ipynb) by running the following command
 from the root directory:
 
 ```
