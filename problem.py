@@ -9,8 +9,10 @@ from sklearn.model_selection import GroupShuffleSplit
 from sklearn.metrics import cohen_kappa_score as scoring_kappa
 import imp
 
-
-preprocessing_file = imp.load_source('preprocessing',"C:\\Users\\mohamed.abdel-wedoud\\Desktop\\guikho\\submissions\\starting_kit\\preprocessing.py")
+## need to change XXXXXXXXX into the right path for exemple if you have child-assessment-prediction directory on your desktop 
+## you may use this path : "C:\\Users\\user-name\\Desktop\\child-assessment-prediction\\submissions\\starting_kit\\preprocessing.py" 
+## changing the user-name into your's however turn XXXXXXXX into the path to child-assessment-prediction directory
+preprocessing_file = imp.load_source('preprocessing',"XXXXXXXXX\\child-assessment-prediction\\guikho\\submissions\\starting_kit\\preprocessing.py")
 preprocessing = preprocessing_file.preprocessing
 
 
