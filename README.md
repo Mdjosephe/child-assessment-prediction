@@ -1,6 +1,6 @@
 # Warning for use : need to change path in problem.py 
 
-{(preprocessing_file = imp.load_source('preprocessing',"XXXXX\\Desktop\\projet data camp\\submissions\\starting_kit\\preprocessing.py"} 
+{(preprocessing_file = imp.load_source('preprocessing',"XXXXX\\child-assessment-prediction\\submissions\\starting_kit\\preprocessing.py"} 
 
 [Please see lines 12-15 of the problem.py code and read instructions]
 
