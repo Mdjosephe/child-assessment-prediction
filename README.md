@@ -4,7 +4,6 @@
 
 [Please see lines 12-15 of the problem.py code]
 
-# Don't forget to dowload the data : 
 
 
 # Starting kit for the child assessment prediction RAMP challenge
