@@ -20,7 +20,7 @@ You can get started on this RAMP challenge with the
 from the root directory:
 
 ```
-jupyter notebook FAN_starting_kit.ipynb
+jupyter notebook Childstein_starting_kit.ipynb
 ```
 ## Advanced install using `conda` (optional)
 
