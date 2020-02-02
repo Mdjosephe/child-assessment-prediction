@@ -9,7 +9,7 @@ class Classifier(BaseEstimator):
             self.clf = clf
 
     def fit(self, X, y):
-        y = y.fillna(-1)
+        # y = y.fillna(-1)
         y_reduced_format = y[y != -1]
         self.clf.fit(X, y_reduced_format)
 
