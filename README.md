@@ -1,4 +1,11 @@
-# Starting kit for the FAN revenue prediction RAMP challenge
+## Warning for use : need to change path in problem.py 
+
+{(preprocessing_file = imp.load_source('preprocessing',"C:\\Users\\XXXXX\\Desktop\\projet data camp\\submissions\\starting_kit\\preprocessing.py"} 
+
+[see line 13 of the problem.py code]
+
+
+# Starting kit for the child assessment prediction RAMP challenge
 
 [![Build Status](https://travis-ci.org/ramp-kits/fan_revenue_prediction.svg?branch=master)](https://travis-ci.org/ramp-kits/fan_revenue_prediction)
 
@@ -45,3 +52,5 @@ activate FAN
 
 For more information on the [RAMP](http:www.ramp.studio) ecosystem go to
 [`ramp-worflow`](https://github.com/paris-saclay-cds/ramp-workflow).
+
+
