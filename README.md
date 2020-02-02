@@ -4,6 +4,12 @@
 
 [Please see lines 12-15 of the problem.py code and read instructions]
 
+# Members of the team are 2020 data science master at polytechnique (france) studens :
+* Loïc Omnès
+* Meriem Elmrini
+* Haiyen Vu
+* Adam Haytoumi
+* Mohamed Abdel Wedoud
 
 
 # Starting kit for the child assessment prediction RAMP challenge
