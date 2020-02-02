@@ -2,7 +2,7 @@
 
 {(preprocessing_file = imp.load_source('preprocessing',"C:\\Users\\XXXXX\\Desktop\\projet data camp\\submissions\\starting_kit\\preprocessing.py"} 
 
-[Please see lines 12-15 of the problem.py code]
+[Please see lines 12-15 of the problem.py code and read instructions]
 
 
 
