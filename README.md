@@ -1,8 +1,10 @@
-## Warning for use : need to change path in problem.py 
+# Warning for use : need to change path in problem.py 
 
 {(preprocessing_file = imp.load_source('preprocessing',"C:\\Users\\XXXXX\\Desktop\\projet data camp\\submissions\\starting_kit\\preprocessing.py"} 
 
-[see line 13 of the problem.py code]
+[Please see lines 12-15 of the problem.py code]
+
+# Don't forget to dowload the data : 
 
 
 # Starting kit for the child assessment prediction RAMP challenge
