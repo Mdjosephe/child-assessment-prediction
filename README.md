@@ -9,7 +9,7 @@
 
 
 # Warning : 
-the evaluation of models is done with Kappa Metric please see the Kaggle challenge page. Thus if you have a 0.65 score is doesn't necessarely mean that you got 65% of the predictions right !!  You may have guessed even 95% right and get only a 0.56 score with this metric.
+the evaluation of models is done with Kappa Metric please see the Kaggle challenge page. Thus if you have a 0.65 score it doesn't necessarely mean that you got 65% of the predictions right !!  You may have guessed even 95% right and get only a 0.56 score with this metric.
 
 # Starting kit for the child assessment prediction RAMP challenge
 
